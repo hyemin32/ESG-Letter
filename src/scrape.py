@@ -1,18 +1,28 @@
 """Google 뉴스 링크를 원문 URL로 디코딩하고 본문을 추출한다."""
 from __future__ import annotations
 
+import requests
 import trafilatura
 from googlenewsdecoder import gnewsdecoder
 
 from src.models import Article
 
 MIN_BODY_CHARS = 250   # 이보다 짧으면 요약할 내용이 부족 → 스킵
+FETCH_TIMEOUT = 8      # 본문 다운로드 최대 대기 시간(초) — 느린 사이트 무한 대기 방지
+
+_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/122.0 Safari/537.36"
+    )
+}
 
 
 def resolve_url(google_link: str) -> str | None:
     """news.google.com 링크를 실제 언론사 원문 URL로 변환."""
     try:
-        res = gnewsdecoder(google_link, interval=1)
+        # interval=0: 기사당 불필요한 대기 제거 (시도 횟수는 select에서 제한)
+        res = gnewsdecoder(google_link, interval=0)
         if res.get("status") and res.get("decoded_url"):
             return res["decoded_url"]
     except Exception as exc:
@@ -21,13 +31,13 @@ def resolve_url(google_link: str) -> str | None:
 
 
 def fetch_body(url: str) -> str:
-    """원문 URL에서 기사 본문 텍스트만 추출."""
+    """원문 URL에서 기사 본문 텍스트만 추출 (타임아웃 적용)."""
     try:
-        html = trafilatura.fetch_url(url)
-        if not html:
+        resp = requests.get(url, headers=_HEADERS, timeout=FETCH_TIMEOUT)
+        if resp.status_code != 200 or not resp.text:
             return ""
         text = trafilatura.extract(
-            html, include_comments=False, include_tables=False
+            resp.text, include_comments=False, include_tables=False
         )
         return (text or "").strip()
     except Exception as exc:
