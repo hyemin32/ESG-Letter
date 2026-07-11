@@ -1,6 +1,8 @@
 """Google 뉴스 링크를 원문 URL로 디코딩하고 본문을 추출한다."""
 from __future__ import annotations
 
+import threading
+
 import requests
 import trafilatura
 from googlenewsdecoder import gnewsdecoder
@@ -9,6 +11,7 @@ from src.models import Article
 
 MIN_BODY_CHARS = 250   # 이보다 짧으면 요약할 내용이 부족 → 스킵
 FETCH_TIMEOUT = 8      # 본문 다운로드 최대 대기 시간(초) — 느린 사이트 무한 대기 방지
+DECODE_TIMEOUT = 12    # 링크 변환 한 건 최대 대기 시간(초) — gnewsdecoder 멈춤 방지
 
 _HEADERS = {
     "User-Agent": (
@@ -18,16 +21,35 @@ _HEADERS = {
 }
 
 
-def resolve_url(google_link: str) -> str | None:
-    """news.google.com 링크를 실제 언론사 원문 URL로 변환."""
-    try:
-        # interval=0: 기사당 불필요한 대기 제거 (시도 횟수는 select에서 제한)
-        res = gnewsdecoder(google_link, interval=0)
-        if res.get("status") and res.get("decoded_url"):
-            return res["decoded_url"]
-    except Exception as exc:
-        print(f"[scrape] URL 디코딩 실패: {exc}")
+def _decode(google_link: str) -> str | None:
+    # interval=0: 기사당 불필요한 대기 제거 (시도 횟수는 select에서 제한)
+    res = gnewsdecoder(google_link, interval=0)
+    if res.get("status") and res.get("decoded_url"):
+        return res["decoded_url"]
     return None
+
+
+def resolve_url(google_link: str) -> str | None:
+    """news.google.com 링크를 실제 언론사 원문 URL로 변환 (강제 시간제한)."""
+    box: dict[str, object] = {}
+
+    def worker() -> None:
+        try:
+            box["url"] = _decode(google_link)
+        except Exception as exc:  # noqa: BLE001
+            box["err"] = exc
+
+    # daemon 스레드: 혹시 멈춰도 프로그램 종료를 막지 않음
+    t = threading.Thread(target=worker, daemon=True)
+    t.start()
+    t.join(DECODE_TIMEOUT)
+    if t.is_alive():
+        print("[scrape] URL 디코딩 시간초과 → 건너뜀")
+        return None
+    if "err" in box:
+        print(f"[scrape] URL 디코딩 실패: {box['err']}")
+        return None
+    return box.get("url")  # type: ignore[return-value]
 
 
 def fetch_body(url: str) -> str:
