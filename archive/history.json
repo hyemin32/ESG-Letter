@@ -41,6 +41,37 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-13",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.youcandonews.com/news/articleView.html?idxno=18195",
+          "title": "수원시, 영유아·부모 참여형 환경교육 '새빛 지구놀이터' 운영",
+          "terms": [
+            "탄소중립 (Carbon Neutrality)",
+            "환경교육 (Environmental Education)"
+          ]
+        },
+        {
+          "url": "https://www.telegraph.co.uk/politics/2026/07/12/tory-centrists-defy-badenochs-red-line-net-zero-echr/",
+          "title": "영국 보수당 중도파, '넷제로'와 '유럽인권협약' 반대하는 바데노크 당대표 노선에 반발",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "유럽인권협약 (ECHR)"
+          ]
+        },
+        {
+          "url": "https://cleantechnica.com/2026/07/12/hydrogen-injection-diesel-smoke-not-climate/",
+          "title": "수소 주입으로 깨끗해 보이는 디젤 배기가스, 실제 탄소 감축 효과는 미미",
+          "terms": [
+            "그린워싱 (Greenwashing)",
+            "스코프 1 배출 (Scope 1 Emissions)",
+            "에너지 효율 (Energy Efficiency)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
