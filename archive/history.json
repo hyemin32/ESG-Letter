@@ -1,4 +1,47 @@
 {
-  "editions": [],
+  "editions": [
+    {
+      "date": "2026-07-12",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.newsis.com/view/NISX20260710_0003704199",
+          "title": "SK케미칼, 연결 기준으로 확대한 '2025 지속가능경영보고서' 발간",
+          "terms": [
+            "이중 중대성 평가",
+            "스코프 3 (Scope 3)",
+            "넷제로 (Net Zero)"
+          ]
+        },
+        {
+          "url": "https://www.2news.co.kr/news/articleView.html?idxno=15397",
+          "title": "원주시 기후변화홍보관, 어린이 대상 '탄소중립 주말 체험 프로그램' 운영",
+          "terms": [
+            "탄소중립",
+            "업사이클링",
+            "자원 순환"
+          ]
+        },
+        {
+          "url": "https://sustainabilitymag.com/news/dp-world-launches-ecoroute-to-cut-logistics-carbon-emissions",
+          "title": "DP 월드, 물류 탄소 배출 감축을 위한 '에코루트' 출시",
+          "terms": [
+            "스코프 3 배출",
+            "탄소 인세팅",
+            "모달 시프트"
+          ]
+        },
+        {
+          "url": "https://www.thejournal.ie/greenwashing-labelling-flights-ireland-7098019-Jul2026/",
+          "title": "항공권 탄소 배출량 표시, 친환경 포장(그린워싱) 우려 제기",
+          "terms": [
+            "그린워싱 (Greenwashing)",
+            "탄소 배출량 라벨링 (Carbon Labeling)",
+            "항공 탄소 배출 (Aviation Emissions)"
+          ]
+        }
+      ]
+    }
+  ],
   "covered_terms": []
 }
