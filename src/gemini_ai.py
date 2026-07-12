@@ -23,12 +23,16 @@ def _client():
                 "GEMINI_API_KEY 환경변수가 없습니다. "
                 "GitHub Secrets 또는 로컬 환경변수에 키를 넣어주세요."
             )
-        _CLIENT = genai.Client(api_key=api_key)
+        # http 요청당 45초 제한 (AI 응답이 안 오면 멈추지 않게)
+        _CLIENT = genai.Client(
+            api_key=api_key,
+            http_options=types.HttpOptions(timeout=45_000),  # 밀리초
+        )
     return _CLIENT
 
 
-def _generate_json(prompt: str, retries: int = 3) -> dict | None:
-    """Gemini에 JSON 응답을 요청하고 파싱. 무료 티어 한도 대비 재시도 포함."""
+def _generate_json(prompt: str, retries: int = 2) -> dict | None:
+    """Gemini에 JSON 응답을 요청하고 파싱. 무료 티어 분당 한도 대비 짧은 재시도 포함."""
     cfg = types.GenerateContentConfig(
         response_mime_type="application/json", temperature=0.4
     )
@@ -40,15 +44,13 @@ def _generate_json(prompt: str, retries: int = 3) -> dict | None:
             return json.loads(resp.text)
         except Exception as exc:
             msg = str(exc)
-            # 무료 티어 분당 한도(429)면 잠시 쉬고 재시도
-            if "429" in msg or "quota" in msg.lower() or "rate" in msg.lower():
-                wait = 20 * (attempt + 1)
-                print(f"[gemini] 한도 도달, {wait}초 대기 후 재시도...")
-                time.sleep(wait)
+            # 분당 한도(RPM)면 잠깐 쉬고 한 번만 더 시도 (하루 한도/미할당이면 어차피 소용없어 길게 안 기다림)
+            if ("429" in msg or "quota" in msg.lower() or "rate" in msg.lower()) and attempt < retries - 1:
+                print(f"[gemini] 한도 도달(429), 8초 후 1회 재시도... ({msg[:120]})")
+                time.sleep(8)
                 continue
-            print(f"[gemini] 생성 실패: {msg[:150]}")
+            print(f"[gemini] 생성 실패: {msg[:200]}")
             return None
-    print("[gemini] 재시도 소진, 실패")
     return None
 
 
