@@ -42,8 +42,9 @@ NEWSLETTER_TITLE = "오늘의 ESG 레터"
 TIMEZONE = "Asia/Seoul"
 
 # ── Gemini 모델 ──────────────────────────────────────
-# 무료 티어에서 쓸 수 있는 모델. 품질이 아쉬우면 "gemini-2.5-flash" 등으로 변경.
-GEMINI_MODEL = "gemini-2.0-flash"
+# 무료 티어에서 쓸 수 있는 모델. 모델마다 무료 quota가 따로라 429가 뜨면 바꿔볼 것.
+# 후보: "gemini-2.5-flash", "gemini-2.0-flash", "gemini-2.0-flash-lite"
+GEMINI_MODEL = "gemini-2.5-flash"
 
 # ── 경로 (건드리지 않아도 됨) ───────────────────────────
 ARCHIVE_PATH = "archive/history.json"
