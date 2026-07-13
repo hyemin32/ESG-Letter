@@ -72,6 +72,54 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-14",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.gninews.co.kr/news/article.html?no=834016",
+          "title": "광명시, '기후의병 탄소저금통' 가입자 2만 명 돌파 앞두고 특별 이벤트 개최",
+          "terms": [
+            "탄소중립 (Carbon Neutrality)",
+            "온실가스 감축 (GHG Reduction)"
+          ]
+        },
+        {
+          "url": "https://www.dailian.co.kr/news/view/1666735/%EA%B4%91%EB%AA%85%EC%8B%9C-%E2%80%98%EA%B8%B0%ED%9B%84%EC%9D%98%EB%B3%91-%ED%83%84%EC%86%8C%EC%A0%80%EA%B8%88%ED%86%B5%E2%80%99-2%EB%A7%8C-2026",
+          "title": "광명시, 시민 참여형 탄소중립 사업 '기후의병 탄소저금통' 2만 명 돌파 앞두고 이벤트 개최",
+          "terms": [
+            "탄소중립 (Carbon Neutrality)",
+            "온실가스 감축 (Greenhouse Gas Reduction)"
+          ]
+        },
+        {
+          "url": "https://insideclimatenews.org/news/13072026/jbs-meat-company-abandons-climate-deforestation-goals/",
+          "title": "세계 최대 육가공 기업 JBS, 기후 및 산림벌채 방지 목표 철회",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "스코프 3 (Scope 3)",
+            "그린워싱 (Greenwashing)"
+          ]
+        },
+        {
+          "url": "https://www.junonews.com/p/ottawa-and-alberta-announce-pathways?utm_source=substack&utm_medium=email&utm_content=share&action=share",
+          "title": "캐나다 연방·앨버타주, 탄소 감축 '패스웨이 프로젝트' MOU 체결",
+          "terms": [
+            "탄소 포집 및 저장 (CCS)",
+            "탄소 상쇄 (Carbon Offset)"
+          ]
+        },
+        {
+          "url": "https://www.kpbs.org/news/environment/2026/07/13/even-as-emissions-fall-san-diego-drifts-further-from-path-to-carbon-neutrality",
+          "title": "샌디에이고, 탄소 배출량 감소에도 '2035년 탄소중립' 목표 달성 지연 우려",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "기후행동계획 (Climate Action Plan)",
+            "탄소중립 (Carbon Neutrality)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
