@@ -120,6 +120,30 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-15",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://news.nate.com/view/20260715n05073",
+          "title": "LG헬로비전, AI 기반 지역 상생 성과 담은 지속가능경영보고서 발간",
+          "terms": [
+            "이중 중대성 평가",
+            "안전보건경영시스템 (ISO45001)",
+            "AX (인공지능 전환)"
+          ]
+        },
+        {
+          "url": "https://www.theguardian.com/australia-news/2026/jul/15/coalition-and-one-nations-plan-to-ditch-net-zero-would-not-lower-power-prices-csiro-report-finds",
+          "title": "호주 야당의 넷제로 폐기 계획, 전기요금 낮추지 못한다... CSIRO 보고서",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "재생에너지 (Renewable Energy)",
+            "원자력 발전 (Nuclear Power)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
