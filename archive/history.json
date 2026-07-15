@@ -144,6 +144,48 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-16",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "http://www.mediatoday.asia/1773739",
+          "title": "시민이 직접 만드는 탄소중립 정책, '시흥시 기후시민네트워크' 22일 출범",
+          "terms": [
+            "기후시민회의",
+            "탄소중립",
+            "환경 거버넌스"
+          ]
+        },
+        {
+          "url": "https://theclimatewatch.com/bangladesh-urges-greater-youth-role-in-climate-governance-and-action/",
+          "title": "방글라데시, 기후 거버넌스 내 청년의 실질적 참여와 역할 확대 촉구",
+          "terms": [
+            "기후 거버넌스 (Climate Governance)",
+            "기후 적응 (Climate Adaptation)",
+            "기후 재원 (Climate Finance)"
+          ]
+        },
+        {
+          "url": "https://www.winnipegsun.com/news/winnipeg/city-greenhouse-gas-emissions-increase-despite-new-efforts/article_59154d18-236f-44a5-a4c0-46bdc61d7bb6.html",
+          "title": "캐나다 위니펙시, 저탄소 투자에도 온실가스 배출량 1.6% 증가",
+          "terms": [
+            "기후행동계획 (Climate Action Plan)",
+            "넷제로 (Net Zero)",
+            "온실가스 인벤토리 (GHG Inventory)"
+          ]
+        },
+        {
+          "url": "https://www.earth.com/news/climate-change-could-bring-a-hidden-rise-in-suicide-deaths/",
+          "title": "기후 변화가 초래할 숨겨진 위기, 2050년대 온도 상승으로 자살률 증가 전망",
+          "terms": [
+            "기후 적응 (Climate Adaptation)",
+            "건강 영향 평가 (Health Impact Assessment)",
+            "기후 보건 위기 (Climate Health Risk)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
