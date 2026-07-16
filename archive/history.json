@@ -186,6 +186,30 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-17",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.earth.com/news/working-from-home-may-not-reduce-carbon-emissions-after-all/",
+          "title": "재택근무의 배신, 실제로는 탄소 배출을 줄이지 못할 수도 있다",
+          "terms": [
+            "스코프 3 (Scope 3)",
+            "탄소 발자국 (Carbon Footprint)",
+            "리바운드 효과 (Rebound Effect)"
+          ]
+        },
+        {
+          "url": "https://www.cbsnews.com/chicago/news/canadian-wildfire-smoke-chicago-climate-change/",
+          "title": "전문가들 \"시카고를 뒤덮은 산불 연기, 기후 변화와 직결\"",
+          "terms": [
+            "온실가스 배출 (GHG Emissions)",
+            "기후 보건 위기 (Climate Health Risk)",
+            "환경 규제 (Environmental Regulation)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
