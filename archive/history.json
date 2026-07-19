@@ -210,6 +210,56 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-20",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://en.edairynews.com/northlands-five-year-dairy-ghg-trial-wraps-up-with-mixed-production-and-profit-results/",
+          "title": "뉴질랜드 5개년 낙농 온실가스 감축 실증 사업 종료, 생산량 감소와 수익성 악화 과제 남겨",
+          "terms": [
+            "온실가스 배출 강도 (GHG Intensity)",
+            "탄소 발자국 (Carbon Footprint)",
+            "저투입 농업 (Low-input Farming)"
+          ]
+        },
+        {
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000050726",
+          "title": "순천시, 일상 속 탄소중립 실천 플랫폼 '탄소모아 탄탄e' 본격 운영",
+          "terms": [
+            "탄소중립 (Carbon Neutrality)",
+            "온실가스 감축 (GHG Reduction)"
+          ]
+        },
+        {
+          "url": "http://www.surprisenews.kr/news/articleView.html?idxno=676468",
+          "title": "광명시, 다회용 컵 순환시스템 참여 카페 11곳으로 확대 운영",
+          "terms": [
+            "자원 순환 (Resource Circulation)",
+            "온실가스 감축 (GHG Reduction)",
+            "탄소중립 (Carbon Neutrality)"
+          ]
+        },
+        {
+          "url": "https://www.dailypress.com/2026/07/19/column-climate-changes-heat-is-baking-us-to-death-we-must-act/",
+          "title": "기후변화가 초래한 기록적 폭염의 경고, 이제는 행동해야 할 때",
+          "terms": [
+            "기후 보건 위기 (Climate Health Risk)",
+            "해양 열파 (Marine Heatwaves)",
+            "기후 적응 (Climate Adaptation)"
+          ]
+        },
+        {
+          "url": "https://tribune.com.pk/story/2619210/climate-change-threatens-traditional-crafts",
+          "title": "기후 변화, 파키스탄 남부 펀자브의 전통 공예와 생계 위협",
+          "terms": [
+            "기후 변화 취약성 (Climate Vulnerability)",
+            "기후 적응 (Climate Adaptation)",
+            "지속 가능한 생계 (Sustainable Livelihoods)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
