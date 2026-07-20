@@ -260,6 +260,38 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-21",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.airlines.org/a4a-statement-on-the-european-commissions-proposal-to-expand-the-eu-emissions-trading-system-ets/",
+          "title": "미국 항공업계(A4A), 유럽연합(EU)의 탄소배출권거래제(ETS) 역외 확대 적용안에 반대 성명 발표",
+          "terms": [
+            "유럽 탄소배출권거래제 (EU ETS)",
+            "지속가능항공유 (SAF)",
+            "항공 탄소 배출 (Aviation Emissions)"
+          ]
+        },
+        {
+          "url": "https://fortune.com/2026/07/20/fifa-president-infantino-100-hours-private-jet-2026-world-cup/",
+          "title": "탄소 감축 약속 무색하게…FIFA 회장, 월드컵 기간 전용기로 100시간 이상 비행",
+          "terms": [
+            "탄소 발자국 (Carbon Footprint)",
+            "그린워싱 (Greenwashing)",
+            "항공 탄소 배출 (Aviation Emissions)"
+          ]
+        },
+        {
+          "url": "https://www.packagingstrategies.com/articles/106574-amazon-touts-packaging-achievements-in-2025-sustainability-report",
+          "title": "아마존, '2025 지속가능성 보고서' 발표... 친환경 포장 성과 강조",
+          "terms": [
+            "자원 순환 (Resource Circulation)",
+            "지속가능성 보고서 (Sustainability Report)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
