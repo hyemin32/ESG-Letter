@@ -292,6 +292,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-22",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://news.nate.com/view/20260722n03630",
+          "title": "무신사, ESG 위원회 신설 및 종속법인 포함한 '2026 임팩트 리포트' 발간",
+          "terms": [
+            "이중 중대성 평가",
+            "온실가스 인벤토리",
+            "Scope 1·2"
+          ]
+        },
+        {
+          "url": "https://asandaily.kr/View.aspx?No=4157100",
+          "title": "충남도, 주민 참여형 '자원순환마을' 사업 추진…농어촌 탄소중립 모델 구축",
+          "terms": [
+            "자원 순환 (Resource Circulation)",
+            "탄소중립 (Carbon Neutrality)",
+            "에너지 효율 (Energy Efficiency)"
+          ]
+        },
+        {
+          "url": "https://www.miragenews.com/new-protocol-unveils-hidden-costs-of-shopping-1713927/",
+          "title": "쇼핑 뒤에 숨겨진 환경 비용… 유통 공급망 전체 배출량 측정 프로토콜 공개",
+          "terms": [
+            "스코프 3 (Scope 3)",
+            "탄소 발자국 (Carbon Footprint)",
+            "전과정 평가 (LCA)"
+          ]
+        },
+        {
+          "url": "https://www.thedailystar.net/news/environment/climate-change/news/heat-stress-could-cost-bangladeshi-workers-nearly-24-days-work-year-report-4227551",
+          "title": "폭염으로 인한 열 스트레스, 방글라데시 노동자 연간 24일 일손 앗아간다",
+          "terms": [
+            "기후 적응 (Climate Adaptation)",
+            "기후 보건 위기 (Climate Health Risk)",
+            "기후 재원 (Climate Finance)"
+          ]
+        },
+        {
+          "url": "https://chimpreports.com/spiro-publishes-first-sustainability-report-targets-net-zero-by-2040/",
+          "title": "아프리카 전기모빌리티 스피로, 첫 지속가능경영보고서 발간… 2040년 넷제로 목표",
+          "terms": [
+            "온실가스 인벤토리 (GHG Inventory)",
+            "스코프 3 (Scope 3)",
+            "넷제로 (Net Zero)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
