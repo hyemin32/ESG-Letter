@@ -343,6 +343,56 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-23",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://news.nate.com/view/20260723n04295",
+          "title": "신한금융, AX 가속화 속 STEM 여성 비중 27.8%로 급락… 4대 금융 최하위",
+          "terms": [
+            "DEI (다양성·형평성·포용성)",
+            "AX (인공지능 전환)"
+          ]
+        },
+        {
+          "url": "https://cunews.net/detail.php?number=170974&thread=22r12r03",
+          "title": "시흥시, 시민 참여형 탄소중립 거버넌스 '기후시민네트워크' 공식 출범",
+          "terms": [
+            "기후시민회의",
+            "탄소중립",
+            "환경 거버넌스"
+          ]
+        },
+        {
+          "url": "https://www.smh.com.au/environment/climate-change/higher-planning-hurdles-needed-for-coal-mines-and-data-centres-watchdog-20260722-p60hmh.html",
+          "title": "호주 NSW 넷제로 위원회, \"탄소 감축 목표 달성 위해 석탄 광산 및 데이터센터 규제 강화해야\"",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "메탄 감축 (Methane Abatement)",
+            "기후 거버넌스 (Climate Governance)"
+          ]
+        },
+        {
+          "url": "https://www.canberratimes.com.au/story/9316012/key-state-falling-short-on-emissions-reduction-targets/",
+          "title": "호주 NSW주, 인프라 기획 지연으로 2030년 온실가스 감축 목표 달성 난항",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "온실가스 감축 목표 (Emissions Reduction Target)",
+            "메탄 감축 (Methane Abatement)"
+          ]
+        },
+        {
+          "url": "https://www.seymourtelegraph.com.au/national/key-state-falling-short-on-emissions-reduction-targets/",
+          "title": "넷제로 위원회 경고 \"행정 지연과 일관성 없는 정책으로 2030 온실가스 감축 목표 달성 불투명\"",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "온실가스 감축 (GHG Reduction)",
+            "메탄 배출 (Methane Emissions)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
