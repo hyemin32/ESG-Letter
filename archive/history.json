@@ -393,6 +393,56 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-24",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277471",
+          "title": "원주기후변화홍보관, 이끼 주제로 탄소중립 기획전시 개최",
+          "terms": [
+            "탄소중립",
+            "넷제로 (Net Zero)"
+          ]
+        },
+        {
+          "url": "https://www.fonterra.com/nz/en/our-stories/articles/net-zero-pilot-dairy-farm-learns-from-regions-high-performing-farms.html",
+          "title": "폰테라 '넷제로 시범 낙농장', 지역 우수 농가서 실용적 탄소 감축 해법 모색",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "온실가스 감축 (GHG Reduction)",
+            "저투입 농업 (Low-input Farming)"
+          ]
+        },
+        {
+          "url": "https://www.globalsouthopportunities.com/2026/07/23/climate-89/",
+          "title": "예일대, 글로벌 사우스 전문가 대상 '2027 차세대 기후 리더 펠로우십' 모집",
+          "terms": [
+            "글로벌 사우스 (Global South)",
+            "기후 거버넌스 (Climate Governance)",
+            "기후 역량 강화 (Climate Capacity Building)"
+          ]
+        },
+        {
+          "url": "https://www.news2day.co.kr/article/20260723500266",
+          "title": "박용승 KABC 위원장 \"ESG 법정공시 대비 3년 플랜과 책임 있는 AI 거버넌스 구축 필요\"",
+          "terms": [
+            "ESG 법정공시",
+            "AI 거버넌스",
+            "그린워싱 (Greenwashing)"
+          ]
+        },
+        {
+          "url": "https://www.tastingtable.com/2218079/seafood-more-eco-friendly-red-meat/",
+          "title": "해산물은 정말 붉은 고기보다 친환경적일까? 탄소 발자국 및 자원 효율성 비교",
+          "terms": [
+            "탄소 발자국 (Carbon Footprint)",
+            "온실가스 배출량 (GHG Emissions)",
+            "지속가능 수산업 인증 (MSC/ASC)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
