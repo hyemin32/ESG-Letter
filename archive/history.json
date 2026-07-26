@@ -443,6 +443,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-27",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.outsourcing.co.kr/news/articleView.html?idxno=203335",
+          "title": "자동화·AI 시대의 ESG 과제: 기술 대체를 넘어 '인간 중심' 인적자본 투자로",
+          "terms": [
+            "AX (인공지능 전환)",
+            "인간 중심 자동화",
+            "재교육 및 역량 강화 (Reskilling & Upskilling)"
+          ]
+        },
+        {
+          "url": "https://time.com/article/2026/07/26/wildfire-disruptions-to-the-tour-de-france-show-how-climate-change-is-shaping-sports/",
+          "title": "산불과 폭염으로 코스 단축된 투르 드 프랑스… 기후 변화가 스포츠 지형 바꾼다",
+          "terms": [
+            "기후 적응 (Climate Adaptation)",
+            "기후 변화 (Climate Change)",
+            "극단적 기후 (Extreme Weather)"
+          ]
+        },
+        {
+          "url": "https://www.earth.com/news/does-recycling-distract-from-real-climate-action-the-idea-has-finally-been-tested/",
+          "title": "개인의 친환경 실천이 구조적 기후 행동을 방해할까? 4년 추적 조사 결과 발표",
+          "terms": [
+            "기후행동 (Climate Action)",
+            "그린워싱 (Greenwashing)",
+            "기후 거버넌스 (Climate Governance)"
+          ]
+        },
+        {
+          "url": "https://www.arise.tv/johnvents-unveils-first-sustainability-report-screens-50000-farms-for-deforestation-risks/",
+          "title": "존벤츠 그룹, 첫 지속가능경영보고서 발간… 5만 개 농가 산림벌채 리스크 점검",
+          "terms": [
+            "EU 산림벌채방지법 (EUDR)",
+            "이중 중대성 평가 (Double Materiality Assessment)",
+            "온실가스 인벤토리 (GHG Inventory)"
+          ]
+        },
+        {
+          "url": "https://www.peoplegate.co.kr/2026/07/mistokorea-givingplus-return-to-care-esg-campaign.html",
+          "title": "미스토코리아·기빙플러스, 자원순환 캠페인 '리턴 투 케어'로 취약계층 여성 지원",
+          "terms": [
+            "업사이클링 (Upcycling)",
+            "자원 순환 (Resource Circulation)",
+            "CSV (공유가치창출)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
