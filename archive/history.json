@@ -494,6 +494,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-28",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://scitechdaily.com/a-hidden-source-of-metal-mining-emissions-could-be-10x-larger-than-estimated/",
+          "title": "금속 광산의 숨겨진 탄소 배출원 '산성 광산 배수', 기존 추정치보다 10배 커질 수 있어",
+          "terms": [
+            "탄소 발자국 (Carbon Footprint)",
+            "넷제로 (Net Zero)",
+            "전과정 평가 (LCA)"
+          ]
+        },
+        {
+          "url": "http://www.bseconomy.com/news/view.php?idx=55811",
+          "title": "부산시, 종료 매립지 '탄소흡수원' 등록 모델 규제혁신 최우수상 선정",
+          "terms": [
+            "탄소배출권 (Carbon Credit)",
+            "탄소흡수원 (Carbon Sink)",
+            "외부사업 (Offset Project)"
+          ]
+        },
+        {
+          "url": "https://www.yahoo.com/news/politics/articles/america-common-ground-climate-change-224323076.html",
+          "title": "미국 기후변화 대립, 공화당 전 의원이 제안하는 초당적 합의점",
+          "terms": [
+            "기후 보건 위기 (Climate Health Risk)",
+            "에너지 안보 (Energy Security)",
+            "기후 거버넌스 (Climate Governance)"
+          ]
+        },
+        {
+          "url": "https://www.hani.co.kr/arti/society/environment/1270238.html",
+          "title": "국내 기초지자체 탄소중립 이행평가 부실… '정상추진' 과제 95% 판단 근거 없어",
+          "terms": [
+            "탄소중립기본계획",
+            "온실가스 감축목표",
+            "기후 거버넌스"
+          ]
+        },
+        {
+          "url": "https://eu-policies.com/competences/climate/trump-administration-changes-endangered-species-rules-amid-conservation-debate/",
+          "title": "트럼프 행정부, 멸종위기종 보호법 규제 완화… 서식지 보호 둘러싼 논란 과열",
+          "terms": [
+            "생물다양성 (Biodiversity)",
+            "환경 규제 (Environmental Regulation)",
+            "멸종위기종 보호법 (Endangered Species Act)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
