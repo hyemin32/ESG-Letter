@@ -545,6 +545,48 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-29",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.rte.ie/news/ireland/2026/0729/1585532-gas-emissions-ireland/",
+          "title": "아일랜드 건물 온실가스 감축 성과에도 \"2030 기후 목표 달성엔 진전 너무 느려\"",
+          "terms": [
+            "탄소 예산 (Carbon Budget)",
+            "기후행동계획 (Climate Action Plan)",
+            "히트펌프 (Heat Pump)"
+          ]
+        },
+        {
+          "url": "https://unric.org/en/icao-eu-aviation-emissions-trading-expansion/",
+          "title": "ICAO, EU의 항공 탄소배출권거래제(ETS) 역외 확대안에 우려 표명",
+          "terms": [
+            "유럽 탄소배출권거래제 (EU ETS)",
+            "CORSIA (국제항공 탄소상쇄·감축제도)",
+            "항공 탄소 배출 (Aviation Emissions)"
+          ]
+        },
+        {
+          "url": "https://www.farmersweekly.co.nz/politics/climate-politics-heat-up-ahead-of-poll/",
+          "title": "뉴질랜드 총선 앞두고 농업 온실가스 배출 규제 및 메탄 목표 논쟁 격화",
+          "terms": [
+            "메탄 감축 목표 (Methane Reduction Target)",
+            "농업 배출 과세 (Agricultural Emissions Pricing)",
+            "탄소배출권거래제 (ETS)"
+          ]
+        },
+        {
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852937",
+          "title": "경실련, 정부 ESG 공시 유예 비판… \"ESG 공시는 기업 건강검진표\"",
+          "terms": [
+            "ESG 의무공시",
+            "스코프 3 (Scope 3)",
+            "지속가능성 공시"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
