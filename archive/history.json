@@ -587,6 +587,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-30",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.unicef.org/india/driving-climate-action-children-india",
+          "title": "유니세프, 인도의 아동 권리 보호를 위한 기후 대응 사업 본격 추진",
+          "terms": [
+            "기후 적응 (Climate Adaptation)",
+            "기후 복원력 (Climate Resilience)",
+            "WASH (식수·위생·보건)"
+          ]
+        },
+        {
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51805",
+          "title": "풀무원, ESG 경영 강화로 호실적 기조 이어간다",
+          "terms": [
+            "ESG 경영",
+            "착한 소비",
+            "지속가능 식생활"
+          ]
+        },
+        {
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224361954914&redirect=Dlog",
+          "title": "AI 기반 탄소 감축 스타트업 땡스카본, 30억 원 규모 시리즈A 투자 유치 추진",
+          "terms": [
+            "기후테크 (Climate Tech)",
+            "자연 기반 해법 (NbS)",
+            "탄소 배출권 (Carbon Credit)"
+          ]
+        },
+        {
+          "url": "https://globalarbitrationreview.com/article/exxonmobil-threatens-eu-over-net-zero-measures",
+          "title": "엑손모빌, 넷제로 규제 반발하며 EU 대상 에너지헌장조약 소송 위협",
+          "terms": [
+            "에너지헌장조약 (Energy Charter Treaty)",
+            "넷제로 (Net Zero)",
+            "투자자-국가 분쟁 해결 (ISDS)"
+          ]
+        },
+        {
+          "url": "https://scanx.trade/stock-market-news/companies/power-grid-corporation-of-india-releases-business-responsibility-and-sustainability-report-for-fy-2025-26/46903694",
+          "title": "인도 전력망 공사, FY 2025-26 비즈니스 책임 및 지속가능성 보고서(BRSR) 발표",
+          "terms": [
+            "BRSR (비즈니스 책임 및 지속가능성 보고서)",
+            "온실가스 배출 강도 (Emission Intensity)",
+            "Scope 1·2 (스코프 1·2)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
