@@ -638,6 +638,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-31",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.ecotextile.com/2026073164564/news/shows-events/walmart-announces-scope-1-and-2-emissions-cuts/",
+          "title": "월마트, SBTi 승인받은 Scope 1·2 온실가스 감축 목표 발표… Scope 3는 증가세",
+          "terms": [
+            "스코프 1·2 배출 (Scope 1 & 2 Emissions)",
+            "스코프 3 (Scope 3)",
+            "SBTi (과학기반 감축목표 이니셔티브)"
+          ]
+        },
+        {
+          "url": "https://www.smartcitiesworld.net/smart-waste/manchester-airport-puts-waste-central-to-net-zero-journey-13069",
+          "title": "맨체스터 공항, 폐기물 자원화 통해 넷제로 달성 가속화",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "폐기물 에너지화 (Waste-to-Energy)",
+            "자원 순환 (Resource Circulation)"
+          ]
+        },
+        {
+          "url": "https://wastemanagementreview.com.au/western-downs-cuts-emissions-by-9900-tonnes-through-landfill-gas-project/",
+          "title": "호주 웨스턴 다운스, 매립가스 프로젝트로 2개월 만에 온실가스 9,900톤 감축",
+          "terms": [
+            "메탄 감축 (Methane Abatement)",
+            "매립가스 (Landfill Gas)",
+            "탄소 배출권 (Carbon Credits)"
+          ]
+        },
+        {
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51848",
+          "title": "청호나이스·파라다이스, 제품 혁신 및 문화 공연으로 ESG 경영 강화",
+          "terms": [
+            "ESG 경영",
+            "사회적 가치",
+            "고객 경험"
+          ]
+        },
+        {
+          "url": "https://www.krcom.co.kr/news/articleView.html?idxno=193176",
+          "title": "충주시, 서충주 순환노선에 친환경 수소버스 추가 투입… 대중교통 친환경 전환 가속",
+          "terms": [
+            "수소 모빌리티 (Hydrogen Mobility)",
+            "탄소중립 (Carbon Neutrality)",
+            "온실가스 감축 (GHG Reduction)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
