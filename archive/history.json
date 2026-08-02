@@ -689,6 +689,48 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-03",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.hankyung.com/article/202607217644G",
+          "title": "금융위 ESG 공시 로드맵 확정, 단순 규제 넘어 '경영혁신 인프라' 되어야",
+          "terms": [
+            "ESG 법정공시",
+            "스코프 3 (Scope 3)",
+            "그린워싱 (Greenwashing)"
+          ]
+        },
+        {
+          "url": "https://www.afr.com/policy/energy-and-climate/exclusive-subscriber-offer-energy-and-climate-summit-2026-20260730-p60k1m",
+          "title": "호주 '에너지·기후 정상회의 2026' 개최… 복잡해진 청정에너지 전환 대응 모색",
+          "terms": [
+            "청정에너지 전환 (Clean Energy Transition)",
+            "에너지 안보 (Energy Security)",
+            "에너지 저장 장치 (ESS)"
+          ]
+        },
+        {
+          "url": "https://www.varsity.co.uk/news/31903",
+          "title": "케임브리지대 연구진 \"대형 행사의 관람객 친환경 이동에 인센티브 제공해야\"",
+          "terms": [
+            "탄소 발자국 (Carbon Footprint)",
+            "스코프 3 배출 (Scope 3 Emissions)",
+            "기후 타당성 (Climate Viability)"
+          ]
+        },
+        {
+          "url": "https://www.afr.com/policy/energy-and-climate/farmers-can-grow-safeguard-mechanism-by-15m-of-carbon-credits-a-day-20260801-p60kiu",
+          "title": "호주 탄소배출권 제도 폐지론 비판… 양극단 정치 논리에 갇힌 기후 정책",
+          "terms": [
+            "탄소배출권 (Carbon Credit)",
+            "세이프가드 메커니즘 (Safeguard Mechanism)",
+            "탄소 시장 (Carbon Market)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
