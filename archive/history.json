@@ -731,6 +731,48 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-04",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.earth.com/news/climate-change-could-slash-rice-harvests-twice-as-much-as-scientists-predicted/",
+          "title": "기후변화로 인한 전 세계 쌀 수확량 감소 폭, 기존 예측보다 2배 심각",
+          "terms": [
+            "식량 안보 (Food Security)",
+            "기후 적응 (Climate Adaptation)",
+            "기후 리스크 (Climate Risk)"
+          ]
+        },
+        {
+          "url": "https://jayapal.house.gov/2026/08/03/jayapal-and-whitehouse-lead-90-colleagues-in-brief-supporting-the-ability-of-states-and-localities-to-hold-big-oil-and-gas-companies-accountable-for-climate-related-harms/",
+          "title": "미 의원 91명, 대법원에 '석유 기업 기후 손해배상 책임' 지지 의견서 제출",
+          "terms": [
+            "기후 소송 (Climate Litigation)",
+            "대기오염방지법 (Clean Air Act)",
+            "그린워싱 (Greenwashing)"
+          ]
+        },
+        {
+          "url": "https://m.joongdo.co.kr/view.php?key=20260804010000925",
+          "title": "서산시, '2040 탄소중립' 청사진을 위한 중장기 환경계획 수립 착수",
+          "terms": [
+            "탄소중립 (Carbon Neutrality)",
+            "기후위기 대응 (Climate Crisis Response)",
+            "자원 순환 (Resource Circulation)"
+          ]
+        },
+        {
+          "url": "https://www.mycarrollcountynews.com/online_features/press_releases/article_97a5794c-d435-5cdd-a84a-36e9fa857ea6.html",
+          "title": "NCLA, 미 SEC에 기후 공시 규칙 철회 및 권한 부재 인정 촉구",
+          "terms": [
+            "기후공시 규제 (Climate Disclosure Rules)",
+            "온실가스 배출량 공시 (GHG Emissions Reporting)",
+            "주요질문원칙 (Major Questions Doctrine)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
