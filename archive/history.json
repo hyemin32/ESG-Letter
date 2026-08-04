@@ -773,6 +773,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-05",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://theguru.co.kr/mobile/article.html?no=105369",
+          "title": "대상, 창립 70주년 맞아 지속가능경영보고서 국·영문 동시 발간",
+          "terms": [
+            "이중 중대성 평가",
+            "ISO 27001",
+            "3R 전략"
+          ]
+        },
+        {
+          "url": "https://www.dailyenews.co.kr/news/articleView.html?idxno=52466",
+          "title": "금호석유화학, 이사회 중심 ESG 거버넌스 구축 및 내부탄소가격제 도입",
+          "terms": [
+            "내부탄소가격제",
+            "TCFD",
+            "전과정평가 (LCA)"
+          ]
+        },
+        {
+          "url": "https://azfreenews.com/2026/08/frank-lasee-the-democrats-climate-silence-is-a-confession/",
+          "title": "미 민주당의 '기후 침묵', 고비용 기후 정책의 한계 인정인가",
+          "terms": [
+            "클라이밋 허싱 (Climate Hushing)",
+            "인플레이션 감축법 (IRA)",
+            "에너지 어포더빌리티 (Energy Affordability)"
+          ]
+        },
+        {
+          "url": "https://persecution.org/2026/08/04/climate-change-is-not-christian-persecution-so-why-does-it-matter/",
+          "title": "기후변화와 종교적 박해: 환경적 스트레스가 취약지역 기독교 공동체의 위기를 심화시키는 이유",
+          "terms": [
+            "기후 변화 취약성 (Climate Vulnerability)",
+            "기후 적응 (Climate Adaptation)",
+            "기후 정의 (Climate Justice)"
+          ]
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/gates-releases-2025-corporate-sustainability-report-302842932.html",
+          "title": "글로벌 공업용 솔루션 기업 게이츠, '2025 지속가능경영보고서' 발간",
+          "terms": [
+            "지속가능경영보고서 (Sustainability Report)",
+            "스코프 1·2 배출량 (Scope 1 and 2 Emissions)",
+            "ESG 데이터 거버넌스 (ESG Data Governance)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
