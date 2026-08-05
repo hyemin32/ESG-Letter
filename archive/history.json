@@ -824,6 +824,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-06",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://bioengineer.org/climate-pledges-could-reduce-global-cropland-by-12-8-by-2100/",
+          "title": "1.5℃ 기후 목표 위한 토지 기반 탄소 감축, 2100년까지 세계 경작지 12.8% 축소 우려",
+          "terms": [
+            "토지 기반 탄소 제거 (Land-based Carbon Removal)",
+            "식량 안보 (Food Security)",
+            "통합 평가 모델 (IAM)"
+          ]
+        },
+        {
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51961",
+          "title": "가온, 제4회 한국ESG경영대상 중소기업 부문 사회(S)분야 최우수상 수상",
+          "terms": [
+            "산업안전",
+            "사회적 가치 (Social Value)",
+            "중소기업 ESG경영"
+          ]
+        },
+        {
+          "url": "https://www.yeoncheonnews.com/news/articleView.html?idxno=4155",
+          "title": "김성원 국회의원, '제4회 한국ESG경영대상' 입법부문 특별상 수상",
+          "terms": [
+            "탄소국경조정제도 (CBAM)",
+            "공급망 실사",
+            "RE100"
+          ]
+        },
+        {
+          "url": "https://bdnmb.ca/joint-investment-and-partnership-support-progress-toward-net-zero-homelessness/",
+          "title": "캐나다 브랜던시, 주정부와 손잡고 노숙인 지원형 주택 건설 추진",
+          "terms": [
+            "주거 복지 (Housing Welfare)",
+            "사회적 포용 (Social Inclusion)",
+            "트라우마 기반 케어 (Trauma-informed Care)"
+          ]
+        },
+        {
+          "url": "https://www.cbc.ca/player/play/video/9.7297434",
+          "title": "캐나다 노바스코샤주, 탄소 감축 성과 '제로'… 야당, 2030년 기후 목표 달성에 우려 제기",
+          "terms": [
+            "온실가스 감축 목표 (Emissions Reduction Target)",
+            "탄소 배출 (Carbon Emissions)",
+            "기후행동계획 (Climate Action Plan)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
