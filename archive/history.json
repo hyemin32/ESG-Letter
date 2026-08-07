@@ -875,6 +875,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-07",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.solartodaymag.com/news/articleView.html?idxno=20913",
+          "title": "디투엔지니어링, '제4회 한국ESG경영대상' 중견기업 부문 최우수상 수상",
+          "terms": [
+            "친환경 엔지니어링",
+            "지속가능경영",
+            "공급망 ESG 점검"
+          ]
+        },
+        {
+          "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16301",
+          "title": "기업의 탄소 배출 책임 범위와 K-ETS 간접배출 개편 논의",
+          "terms": [
+            "한국 배출권거래제(K-ETS)",
+            "간접배출 (Scope 2)",
+            "공급망 배출 (Scope 3)"
+          ]
+        },
+        {
+          "url": "https://vietnamnet.vn/en/700-bln-usd-for-net-zero-vietnam-bets-on-vifc-2542864.html",
+          "title": "베트남, 7000억 달러 넷제로 목표 달성 위해 호치민 국제금융센터(VIFC)에 사활",
+          "terms": [
+            "녹색 금융 (Green Finance)",
+            "전환 금융 (Transition Finance)",
+            "넷제로 (Net Zero)"
+          ]
+        },
+        {
+          "url": "https://theicct.org/publication/eu-co2-standards-for-cars-and-vans-low-carbon-steel-credits-aug26/",
+          "title": "EU 자동차 CO2 배출 규제에 '저탄소 철강 크레딧' 도입 논의… 엄격한 기준 마련 시급",
+          "terms": [
+            "유럽 탄소배출권거래제 (EU ETS)",
+            "탈화석연료 철강 (Fossil-free Steel)",
+            "저탄소 철강 크레딧 (Low-carbon Steel Credit)"
+          ]
+        },
+        {
+          "url": "https://www.telesurenglish.net/climate-change-has-increased-canadas-extreme-wildfire-risk-fivefold/",
+          "title": "기후 변화로 캐나다 극심한 산불 위험 5배 증가... WWA 연구 결과 발표",
+          "terms": [
+            "기후 적응 (Climate Adaptation)",
+            "기후 보건 위기 (Climate Health Risk)",
+            "기후 변화 취약성 (Climate Vulnerability)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
