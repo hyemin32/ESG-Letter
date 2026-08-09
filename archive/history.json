@@ -926,6 +926,54 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-10",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://the-ethos.co/even-a-spa-day-has-a-carbon-cost/",
+          "title": "스파 이용에도 탄소 비용 발생... 웰니스 관광 실시간 탄소발자국 계산기 'SPA-DEC' 공개",
+          "terms": [
+            "탄소 발자국 (Carbon Footprint)",
+            "전과정 평가 (LCA)",
+            "온실가스 프로토콜 (GHG Protocol)"
+          ]
+        },
+        {
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=52024",
+          "title": "풀무원, ESG 경영 강화… 지속가능 식생활 교육 확대 및 창작극 수상 성과",
+          "terms": [
+            "지속가능 식생활 (Sustainable Diet)",
+            "ESG 경영 (ESG Management)"
+          ]
+        },
+        {
+          "url": "http://www.surprisenews.kr/news/articleView.html?idxno=683230",
+          "title": "광명시, 소상공인과 협력해 전자영수증 발급 '기후의병 가맹점' 확대",
+          "terms": [
+            "탄소중립 (Carbon Neutrality)",
+            "자원 순환 (Resource Circulation)"
+          ]
+        },
+        {
+          "url": "https://www.dailypress.com/2026/08/09/column-wildfires-will-worsen-until-us-stops-ignoring-the-climate-crisis/",
+          "title": "산불 연기 남하에 캐나다 탓하는 미국… 기후 정책 후퇴가 근본 원인",
+          "terms": [
+            "기후 보건 위기 (Climate Health Risk)",
+            "온실가스 배출 (GHG Emissions)",
+            "환경 규제 (Environmental Regulation)"
+          ]
+        },
+        {
+          "url": "https://www.bssnews.net/district/413147",
+          "title": "방글라데시 랑푸르, 기후 변화 대응 위한 도로변 나무 심기 행사 개최",
+          "terms": [
+            "기후 적응 (Climate Adaptation)",
+            "탄소 흡수원 (Carbon Sink)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
