@@ -974,6 +974,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-11",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.lebanondemocrat.com/news/national/financial-officers-applaud-climate-rule-rescission/article_63f3cf82-dc88-5fb8-8cbd-671bdc82f27a.html",
+          "title": "미 주 재무당국자들, SEC 기후 공시 규제 철회 결정 환영… \"79억 달러 절감\"",
+          "terms": [
+            "기후 공시 (Climate Disclosure)",
+            "중대성 (Materiality)",
+            "온실가스 배출량 공시 (GHG Disclosure)"
+          ]
+        },
+        {
+          "url": "https://www.manilatimes.net/2026/08/11/tmt-newswire/pr-newswire/lx-pantos-strengthens-global-esg-leadership-through-its-2026-sustainability-report/2402502",
+          "title": "LX판토스, 글로벌 사업장으로 ESG 공시 확대한 '2026 지속가능경영보고서' 발간",
+          "terms": [
+            "스코프 1·2 (Scope 1·2)",
+            "GRI Standards",
+            "TCFD"
+          ]
+        },
+        {
+          "url": "https://shindonga.donga.com/List/article/all/13/6341773/1",
+          "title": "중소기업 ESG 경영, 대기업 공급망 대응과 리스크 관리에 절실한 이유",
+          "terms": [
+            "공급망 ESG 평가",
+            "공급망 실사",
+            "안전보건경영시스템"
+          ]
+        },
+        {
+          "url": "https://www.hani.co.kr/arti/society/environment/1272299.html",
+          "title": "국적 항공사, CORSIA 탄소 규제로 3,355억 원 부담 전망… 배출권 확보율은 3.6% 그쳐",
+          "terms": [
+            "국제항공 탄소상쇄·감축제도 (CORSIA)",
+            "지속가능항공유 (SAF)",
+            "탄소배출권"
+          ]
+        },
+        {
+          "url": "https://fortune.com/2026/08/10/italy-5-billion-cheese-economy-heat-wave-climate-change/",
+          "title": "기후변화와 폭염, 이탈리아 치즈 담보 은행 및 농식품 산업 전반 위협",
+          "terms": [
+            "기후 리스크 (Climate Risk)",
+            "기후 적응 (Climate Adaptation)",
+            "기후 변화 취약성 (Climate Vulnerability)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
