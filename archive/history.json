@@ -1076,6 +1076,56 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-13",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.beyondpost.co.kr/view.php?ud=2026081307205964364c878f8fa1_30",
+          "title": "용인시, 재생에너지 보급 공모 4년 연속 최우수… 탄소중립과 기업 지원 동시 추진",
+          "terms": [
+            "재생에너지 (Renewable Energy)",
+            "탄소중립 (Carbon Neutrality)"
+          ]
+        },
+        {
+          "url": "https://www.dailian.co.kr/news/view/1677864/%EA%B4%91%EB%AA%85%EC%8B%9C-%EA%B2%BD%EA%B8%B0%ED%99%98%EA%B2%BD%EB%8C%80%EC%83%81-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%A7%80%EC%82%AC%EC%83%81-%EC%88%98%EC%83%81-2026",
+          "title": "광명시, 시민 참여형 탄소중립 성과 인정받아 '경기환경대상' 경기도지사상 수상",
+          "terms": [
+            "탄소중립 (Carbon Neutrality)",
+            "환경 거버넌스 (Environmental Governance)",
+            "분산에너지 (Distributed Energy)"
+          ]
+        },
+        {
+          "url": "https://www.wglt.org/local-news/2026-08-12/mclean-county-communities-and-governments-are-reducing-carbon-emission-levels",
+          "title": "미국 맥클레인 카운티, 온실가스 배출량 10% 감축… 건물 탈탄소화가 견인",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "온실가스 인벤토리 (GHG Inventory)",
+            "건물 탈탄소화 (Building Decarbonization)"
+          ]
+        },
+        {
+          "url": "https://reneweconomy.com.au/quitting-gas-going-electric-could-save-public-hospitals-millions/amp/",
+          "title": "호주 공공병원 가스 탈피 및 전력화 추진 시 연간 5,900만 달러 절감 전망",
+          "terms": [
+            "탈가스화 (Gas Phase-out)",
+            "기후 보건 위기 (Climate Health Risk)",
+            "에너지 효율 (Energy Efficiency)"
+          ]
+        },
+        {
+          "url": "https://www.baltimoresun.com/2026/08/12/heat-waves-methane-carbon-smithsonian-edgewater/",
+          "title": "폭염이 부른 식물의 온실가스 배출… 습지 내 메탄 생성 증가 우려",
+          "terms": [
+            "메탄 배출 (Methane Emissions)",
+            "온실가스 (Greenhouse Gas)",
+            "기후 적응 (Climate Adaptation)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
