@@ -1126,6 +1126,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-14",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477269",
+          "title": "도시가스 기업 삼천리, 연료전지 사업 확대로 탄소중립 신성장동력 확보",
+          "terms": [
+            "분산형 전원 (Distributed Energy Resource)",
+            "청정수소 발전 의무화 제도 (CHPS)",
+            "신재생에너지 공급 의무화 제도 (RPS)"
+          ]
+        },
+        {
+          "url": "https://news.nate.com/view/20260814n03943",
+          "title": "기후테크 기업 '이후', 탄소중립 프로젝트 선정에도 은행 담보 문턱에 난항",
+          "terms": [
+            "기후테크 (Climate Tech)",
+            "녹색금융 (Green Finance)",
+            "분산형 에너지 (Distributed Energy)"
+          ]
+        },
+        {
+          "url": "https://aldergrovestar.com/2026/08/13/letter-hard-choices-needed-to-save-humanity-from-climate-change/",
+          "title": "\"기후위기 생존 위해 화석연료 퇴출과 과감한 정책적 결단 시급해\"",
+          "terms": [
+            "화석연료 퇴출 (Fossil Fuel Phase-out)",
+            "재생에너지 전환 (Renewable Energy Transition)",
+            "기후행동 (Climate Action)"
+          ]
+        },
+        {
+          "url": "http://hfbusiness.com/hfbnow/ArticleId/29046/colebrook-bosson-saunders-releases-sustainability-report-2026",
+          "title": "콜브룩보슨샌더스(CBS), 2026 지속가능성 보고서 발간… 스코프 3 감축 및 순환 디자인 가속화",
+          "terms": [
+            "스코프 3 (Scope 3)",
+            "순환 디자인 (Circular Design)",
+            "과불화화합물 (PFAS)"
+          ]
+        },
+        {
+          "url": "https://www.deccanherald.com/india/assam/human-factors-not-climate-change-to-blame-for-assam-floods-study-4110351",
+          "title": "인도 아삼주 홍수, 기후변화 아닌 인위적 관리 부실이 주원인… 국제 연구 결과",
+          "terms": [
+            "기후 귀속 연구 (Climate Attribution Study)",
+            "기후 적응 (Climate Adaptation)",
+            "토지 이용 변화 (Land Use Change)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
