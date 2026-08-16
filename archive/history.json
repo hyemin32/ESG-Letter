@@ -1177,6 +1177,30 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.standard.co.uk/news/environment/sadiq-khan-burnham-andy-burnham-prime-minister-london-b1293496.html",
+          "title": "사디크 칸 런던 시장, 영국 정부에 \"넷제로 목표 후퇴 말라\" 경고",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "무공해차 의무화 제도 (ZEV Mandate)",
+            "에너지 전환 (Energy Transition)"
+          ]
+        },
+        {
+          "url": "https://www.eanews.kr/news/988494",
+          "title": "영인에스티, 탄소 규제 및 CBAM 대응 위한 'AI-MRV 통합 분석 플랫폼' 공개",
+          "terms": [
+            "MRV (측정·보고·검증)",
+            "CBAM (탄소국경조정제도)",
+            "탄소 발자국 (Carbon Footprint)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
