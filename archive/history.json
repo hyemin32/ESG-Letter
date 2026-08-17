@@ -1201,6 +1201,48 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-18",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "http://www.mediadf.co.kr/news/articleView.html?idxno=20128",
+          "title": "구미시, 농업·산단·물관리 아우르는 '기후에너지과' 컨트롤타워 구축 필요성 대두",
+          "terms": [
+            "탄소중립 선도도시",
+            "기후 적응 (Climate Adaptation)",
+            "분산에너지 (Distributed Energy)"
+          ]
+        },
+        {
+          "url": "https://en.sedaily.com/international/2026/08/18/why-war-ai-and-climate-change-all-come-down-to-energy-petro",
+          "title": "전쟁·AI·기후변화, 글로벌 대격변의 핵심 변수는 '에너지'",
+          "terms": [
+            "에너지 전환 (Energy Transition)",
+            "에너지 안보 (Energy Security)",
+            "전동화 (Electrification)"
+          ]
+        },
+        {
+          "url": "https://www.bnnbloomberg.ca/business/economics/2026/08/17/feds-move-to-repeal-ev-sales-mandate-without-new-stringent-emission-rules-in-place/",
+          "title": "캐나다 연방정부, 배출가스 대체 규제 없이 '전기차 의무판매제' 폐지 착수",
+          "terms": [
+            "무공해차 의무판매제 (ZEV Mandate)",
+            "배기 배출가스 기준 (Tailpipe Emission Standards)",
+            "온실가스 감축 (GHG Reduction)"
+          ]
+        },
+        {
+          "url": "https://finance.yahoo.com/healthcare/articles/schott-pharma-advances-climate-action-211725774.html",
+          "title": "쇼트 파마, SBTi 승인 획득하며 공급망(Scope 3) 온실가스 감축 목표 강화",
+          "terms": [
+            "과학기반 감축목표 이니셔티브 (SBTi)",
+            "스코프 3 (Scope 3)",
+            "탄소 상쇄 (Carbon Offsetting)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
