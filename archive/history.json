@@ -1243,6 +1243,39 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-19",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://v.daum.net/v/20260819070700233",
+          "title": "서울 도봉구, 기후정의 기반 '탄소중립 도시 조성 종합계획' 수립",
+          "terms": [
+            "기후정의 (Climate Justice)",
+            "탄소중립 (Carbon Neutrality)",
+            "기후 거버넌스 (Climate Governance)"
+          ]
+        },
+        {
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3667648",
+          "title": "충주시, '탄소중립포인트' 참여자 상시 모집… 에너지 5% 이상 절감 시 인센티브 지급",
+          "terms": [
+            "탄소중립포인트제",
+            "온실가스 감축",
+            "에너지 효율"
+          ]
+        },
+        {
+          "url": "https://timesofindia.indiatimes.com/defence/international/germanys-climate-divide-drought-crisis-exposes-growing-rift-in-merz-government/videoshow/133332203.cms",
+          "title": "이집트, 사우디·튀르키예·파키스탄 주도 안보 동맹 불참… 인도와의 협력 및 전략적 자율성 고려",
+          "terms": [
+            "지정학적 리스크 (Geopolitical Risk)",
+            "전략적 자율성 (Strategic Autonomy)",
+            "글로벌 사우스 (Global South)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
