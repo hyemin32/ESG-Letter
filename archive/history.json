@@ -1276,6 +1276,48 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-20",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02489526645549288&mediaCodeNo=257",
+          "title": "한국형 혁신 핵융합로 개발 본격화… \"2039년 전력 실증 목표\"",
+          "terms": [
+            "무탄소 에너지 (CFE)",
+            "기후테크 (Climate Tech)",
+            "에너지 전환 (Energy Transition)"
+          ]
+        },
+        {
+          "url": "https://time.com/article/2026/08/19/climate-change-impacting-blood-carbon-dioxide-levels/",
+          "title": "대기 중 이산화탄소 증가, 인체 혈액 화학 조성까지 변화시킨다",
+          "terms": [
+            "기후 보건 위기 (Climate Health Risk)",
+            "온실가스 농도 (Atmospheric GHG Concentration)",
+            "기후 적응 (Climate Adaptation)"
+          ]
+        },
+        {
+          "url": "https://www.energylivenews.com/2026/08/19/essex-county-council-axe-net-zero-policies/",
+          "title": "영국 에식스 카운티 의회, 2030 넷제로 정책 전면 폐기… 예산 절감 명분",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "기후 거버넌스 (Climate Governance)",
+            "기후 정책 백래시 (Climate Backlash)"
+          ]
+        },
+        {
+          "url": "https://www.asiae.co.kr/en/article/2026081916125356361",
+          "title": "탄소 규제 닥쳐오는데… 국내 수출기업 탄소 데이터 관리는 '각자도생·수작업'",
+          "terms": [
+            "탄소국경조정제도 (CBAM)",
+            "MRV (측정·보고·검증)",
+            "디지털 제품 여권 (DPP)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
