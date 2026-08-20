@@ -1318,6 +1318,30 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-21",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.cbdaily.co.kr/mobile/article.html?no=63248",
+          "title": "진천군, '진천형 ESG 더블업' 본격화… 105개 세부 사업으로 지속가능 행정 정착",
+          "terms": [
+            "GRI 스탠더드 (GRI Standards)",
+            "ESG 공시",
+            "RE100"
+          ]
+        },
+        {
+          "url": "https://www.backscoop.com/newsletter-posts/3-5m-for-neocrete-to-continue-making-more-low-carbon-concrete",
+          "title": "뉴질랜드 저탄소 콘크리트 스타트업 네오크리트, 350만 달러 투자 유치",
+          "terms": [
+            "저탄소 콘크리트 (Low-carbon Concrete)",
+            "내재 탄소 (Embodied Carbon)",
+            "기후테크 (Climate Tech)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
