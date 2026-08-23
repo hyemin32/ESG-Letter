@@ -1342,6 +1342,30 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-24",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "http://www.ansannews.co.kr/news/articleView.html?idxno=17592",
+          "title": "안산환경재단, 관내 제조기업 대상 'ESG경영자 6기 과정' 개강",
+          "terms": [
+            "탄소중립",
+            "공급망 ESG",
+            "온실가스 감축목표"
+          ]
+        },
+        {
+          "url": "https://www.toptvkorea.com/news/515415",
+          "title": "환경의 날 맞은 국내 기업들, 탄소중립 투자 확대 및 스코프3 대응 가속",
+          "terms": [
+            "스코프 3 (Scope 3)",
+            "탄소중립 (Carbon Neutrality)",
+            "지속가능성 보고서"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
