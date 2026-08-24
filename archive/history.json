@@ -1366,6 +1366,48 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-25",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.asiae.co.kr/article/2026082507154604854",
+          "title": "소상공인시장진흥공단, '2026 지속가능 ESG경영대상' 탄소중립·친환경 부문 수상",
+          "terms": [
+            "자원 순환 (Resource Circulation)",
+            "탄소중립 (Carbon Neutrality)",
+            "온실가스 감축 (GHG Reduction)"
+          ]
+        },
+        {
+          "url": "https://www.nbcconnecticut.com/news/national-international-news/changing-climate/ct-residents-increasingly-concerned-about-climate-change-yale-survey-finds/3768073/",
+          "title": "예일대 조사 \"미 코네티컷 주민 기후변화 우려 증가… 기업·의회 대응 요구 커져\"",
+          "terms": [
+            "기후행동 (Climate Action)",
+            "기후 정책 (Climate Policy)",
+            "기후 리스크 (Climate Risk)"
+          ]
+        },
+        {
+          "url": "https://news.nate.com/view/20260825n01698",
+          "title": "한국기업평가, ESG평가센터 '실'로 격하… 시장 위축에 조직 축소",
+          "terms": [
+            "ESG채권",
+            "녹색채권",
+            "ESG평가"
+          ]
+        },
+        {
+          "url": "https://newshub.medianet.com.au/2026/08/floating-wetlands-slash-wastewater-greenhouse-gas-emissions-study/167756/",
+          "title": "하수처리장에 띄운 '인공 식생섬', 온실가스 배출 대폭 감축… 자연 기반 해법 입증",
+          "terms": [
+            "자연 기반 해법 (NbS)",
+            "메탄 감축 (Methane Abatement)",
+            "온실가스 감축 (GHG Reduction)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
