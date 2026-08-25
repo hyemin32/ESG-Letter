@@ -1408,6 +1408,21 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-26",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.stopfake.org/en/from-denial-to-exploitation-how-the-kremlin-has-adapted-its-climate-disinformation/",
+          "title": "러시아의 기후 허위정보 전략 전환… '기후 부정'에서 '기후정책 폄하'로",
+          "terms": [
+            "기후 허위정보 (Climate Disinformation)",
+            "외국 정보 조작 및 간섭 (FIMI)",
+            "영구동토층 (Permafrost)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
