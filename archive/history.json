@@ -1423,6 +1423,38 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.wonjutoday.co.kr/news/articleView.html?idxno=212204",
+          "title": "원주시·제천시 탄소중립지원센터, 지역 경계 넘는 업무협약 체결",
+          "terms": [
+            "탄소중립 (Carbon Neutrality)",
+            "기후위기 대응 (Climate Crisis Response)"
+          ]
+        },
+        {
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3679186",
+          "title": "중랑구, 환경·사회 분야 아우르는 '2026 ESG 공모전' 개최… 지속가능 우수사례 발굴",
+          "terms": [
+            "지속가능발전 (Sustainable Development)",
+            "사회적 가치 (Social Value)",
+            "지역 상생 (Local Coexistence)"
+          ]
+        },
+        {
+          "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4346652/brainbees-files-assured-sustainability-report-for-fy-2025-26/",
+          "title": "인도 이커머스 기업 브레인비즈, 2025-26 회계연도 제3자 검증 ESG 보고서 제출",
+          "terms": [
+            "사업책임 및 지속가능성 보고서 (BRSR)",
+            "지속가능성 검증 (Sustainability Assurance)",
+            "ESG 공시 규제"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
