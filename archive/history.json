@@ -1455,6 +1455,21 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-01",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://newsyonhap.com/news/122446",
+          "title": "지구온난화로 인한 빙하 소멸, 수자원 고갈과 글로벌 농업 위기 가속",
+          "terms": [
+            "식량 안보 (Food Security)",
+            "기후 적응 (Climate Adaptation)",
+            "정밀 농업 (Precision Agriculture)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
