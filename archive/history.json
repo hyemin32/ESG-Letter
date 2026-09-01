@@ -1470,6 +1470,39 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-02",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "http://www.paxetv.com/news/articleView.html?idxno=280673",
+          "title": "태안군, 한전·해수부와 13억 규모 '민관협력 1호 바다숲' 조성 착수",
+          "terms": [
+            "블루카본 (Blue Carbon)",
+            "탄소 흡수원 (Carbon Sink)",
+            "해양생태계 복원 (Marine Ecosystem Restoration)"
+          ]
+        },
+        {
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349011",
+          "title": "최태원 대한상의 회장, EBS '위대한 수업'서 '뉴캐피탈리즘'과 AI 시대 사회적 가치 화두 제시",
+          "terms": [
+            "뉴캐피탈리즘 (New Capitalism)",
+            "사회적 가치 (Social Value)",
+            "ESG 경영 (ESG Management)"
+          ]
+        },
+        {
+          "url": "https://www.blackcountryradio.co.uk/news/local-headlines/brum-will-become-net-zero-city/",
+          "title": "영국 버밍엄시, 20년 '넷제로 도시' 청사진 발표… 건물 재활용 및 난방 탈탄소화 추진",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "순환 경제 (Circular Economy)",
+            "열 탈탄소화 (Decarbonisation of Heat)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
