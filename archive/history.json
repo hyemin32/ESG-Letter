@@ -1503,6 +1503,29 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-03",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.kmunews.co.kr/news/articleView.html?idxno=402868",
+          "title": "금천구, 영유아 눈높이에 맞춘 '으쓱 ESG 베이비 플리마켓' 개최",
+          "terms": [
+            "자원 순환 (Resource Circulation)",
+            "생활 속 ESG (Everyday ESG)"
+          ]
+        },
+        {
+          "url": "https://www.rivieramm.com/news-content-hub/news-content-hub/renewing-an-ageing-icebreaker-fleet-amid-climate-change-with-nuclear-in-the-mix-89873",
+          "title": "기후변화와 쇄빙선 노후화 속 원자력 추진 도입 논의 부상",
+          "terms": [
+            "기후 적응 (Climate Adaptation)",
+            "원자력 추진선 (Nuclear Propulsion Ship)",
+            "해운 탈탄소화 (Maritime Decarbonization)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
