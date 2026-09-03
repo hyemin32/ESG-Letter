@@ -1526,6 +1526,21 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-04",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3011471",
+          "title": "건기식협회, 한국생산성본부와 손잡고 글로벌 ESG·공급망 대응 특별교육 실시",
+          "terms": [
+            "공급망 실사 (Supply Chain Due Diligence)",
+            "거래처 행동강령 (Code of Conduct)",
+            "공급망 리스크 관리 (Supply Chain Risk Management)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
