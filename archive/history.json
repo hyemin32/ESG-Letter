@@ -1541,6 +1541,21 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-07",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.hellenicshippingnews.com/imo-makes-steady-progress-on-the-net-zero-framework-with-large-majority-continuing-to-back-ghg-pricing-and-centralised-fund-to-support-shippings-transition/",
+          "title": "IMO 넷제로 프레임워크 진전… 온실가스 가격제와 중앙 기금에 대다수 지지",
+          "terms": [
+            "넷제로 프레임워크 (Net Zero Framework)",
+            "온실가스 가격제 (GHG Pricing)",
+            "공정하고 공평한 전환 (Just and Equitable Transition)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
