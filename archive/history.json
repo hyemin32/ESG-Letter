@@ -1556,6 +1556,20 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-08",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.1news.co.nz/2026/09/08/watch-live-hipkins-speaks-after-climate-change-speech/",
+          "title": "크리스 힙킨스 뉴질랜드 노동당 대표, 기후변화 콘퍼런스 연설 후 기자회견",
+          "terms": [
+            "기후 정책 (Climate Policy)",
+            "온실가스 감축 (GHG Reduction)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
