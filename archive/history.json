@@ -1570,6 +1570,21 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-09",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.news2day.co.kr/article/20260908500112",
+          "title": "AI 시대 ESG 평가의 진화… '인간중심 기술전환 역량' 핵심 지표로 부상",
+          "terms": [
+            "AI 거버넌스 (AI Governance)",
+            "지속가능경영 평가",
+            "휴먼사이버물리체계 (HCPS)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
