@@ -1609,6 +1609,39 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-11",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://theviewers.co.kr/View.aspx?No=4222641",
+          "title": "국내 기업들, 자원순환부터 일자리·골목상권 상생까지 ESG 활동 확대",
+          "terms": [
+            "자원순환 (Resource Circulation)",
+            "사회공헌 (CSR)",
+            "동반성장 (Shared Growth)"
+          ]
+        },
+        {
+          "url": "https://www.myradiolink.com/2026/09/10/illinois-epa-releases-illinois-comprehensive-climate-action-plan/",
+          "title": "미 일리노이주 환경청, 2050 넷제로 달성 위한 '종합 기후행동계획' 발표",
+          "terms": [
+            "기후행동계획 (Climate Action Plan)",
+            "넷제로 (Net Zero)",
+            "건물 탈탄소화 (Building Decarbonization)"
+          ]
+        },
+        {
+          "url": "https://www.latimes.com/environment/story/2026-09-10/trump-administration-wants-to-revise-latest-national-climate-assessment-three-years-after-publication",
+          "title": "트럼프 행정부, 3년 전 발간된 '미 국가기후평가' 수정 추진… 과학계 반발",
+          "terms": [
+            "국가기후평가 (NCA)",
+            "기후 시나리오 (RCP8.5)",
+            "기후 리스크 (Climate Risk)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
