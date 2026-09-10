@@ -1585,6 +1585,30 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-10",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://calgary.citynews.ca/2026/09/09/officials-break-ground-on-massive-carbon-capture-project-in-central-alberta/",
+          "title": "캐나다 앨버타주, 연간 150만 톤 규모 '탄소 포집·저장(CCS)' 프로젝트 착공",
+          "terms": [
+            "탄소 포집 및 저장 (CCS)",
+            "탈탄소화 (Decarbonization)",
+            "탄소 영구 격리 (Permanent Carbon Storage)"
+          ]
+        },
+        {
+          "url": "https://www.nationalobserver.com/2026/09/09/news/environment-minister-defends-low-profile-release-really-important-climate-report",
+          "title": "캐나다 환경장관, '중대 기후 보고서' 조용한 공개 논란에 정치적 의도 부인",
+          "terms": [
+            "기후 리스크 (Climate Risk)",
+            "기후 적응 (Climate Adaptation)",
+            "기후 정책 백래시 (Climate Backlash)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
