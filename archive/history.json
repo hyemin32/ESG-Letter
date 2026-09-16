@@ -1642,6 +1642,21 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-16",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://kfgo.com/2026/09/15/heathrow-expansion-incompatible-with-uk-climate-goals-unless-airlines-do-more-advisers-say/",
+          "title": "영국 기후변화위 \"항공사 추가 감축 없이는 히드로 공항 확장 불가\"",
+          "terms": [
+            "지속가능항공유 (SAF)",
+            "직접공기포집 (DAC)",
+            "넷제로 (Net Zero)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
