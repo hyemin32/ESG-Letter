@@ -1657,6 +1657,21 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-17",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://v.daum.net/v/20260917090637459",
+          "title": "롯데칠성음료, 재생원료 확대 및 공정 혁신으로 저탄소 제품 인증 라인업 강화",
+          "terms": [
+            "환경성적표지 (EPD)",
+            "저탄소 제품 인증",
+            "기계적 재활용 (Mechanical Recycling)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
