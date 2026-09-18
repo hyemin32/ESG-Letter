@@ -1672,6 +1672,30 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-18",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.thebigdata.co.kr/view.php?ud=202609171528262625570d99e4c8_23",
+          "title": "LIG넥스원, 방산 특화 ESG 경영 본격화로 업계 최고 평가 획득",
+          "terms": [
+            "이중 중대성 평가 (Double Materiality Assessment)",
+            "넷제로 (Net Zero)",
+            "기업지배구조 (Corporate Governance)"
+          ]
+        },
+        {
+          "url": "https://ca.news.yahoo.com/editorial-eu-climate-policies-could-232356851.html",
+          "title": "[사설] 캐나다-EU 무역 협정, 과도한 EU 기후 정책 수용 시 경제적 파탄 우려",
+          "terms": [
+            "탄소국경조정제도 (CBAM)",
+            "기후 정책 백래시 (Climate Backlash)",
+            "온실가스 감축목표 (NDC)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
