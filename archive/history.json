@@ -1696,6 +1696,47 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-22",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.impacton.net/news/articleView.html?idxno=30009",
+          "title": "정부, K-배터리 4000억 R&D 지원 및 산업용수 '워터 포지티브' 인증 체계 도입",
+          "terms": [
+            "워터 포지티브 (Water Positive)",
+            "순환형 배터리 생태계",
+            "사회적 가치 측정"
+          ]
+        },
+        {
+          "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=328722",
+          "title": "농어촌공사 영산강사업단, 추석 맞아 지역 복지시설에 기부금 전달",
+          "terms": [
+            "사회공헌 (CSR)",
+            "지역사회 상생 (Community Engagement)"
+          ]
+        },
+        {
+          "url": "https://thesouthern.com/life-entertainment/health/illinois-epa-releases-comprehensive-climate-action-plan-to-reach-net-zero-emissions/article_47802ba5-bd18-5d0f-9b10-e776dc84fc77.html",
+          "title": "미 일리노이주, 2050 넷제로 난항… 전 산업 대상 추가 감축 로드맵 제시",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "전기화 (Electrification)",
+            "건물 탈탄소화 (Building Decarbonization)"
+          ]
+        },
+        {
+          "url": "https://www.climatechangenews.com/2026/09/22/new-york-climate-week-energy-transition-security-leaders/",
+          "title": "기후변화와 에너지 전환, '국가 안보' 핵심 의제로 격상",
+          "terms": [
+            "에너지 전환 (Energy Transition)",
+            "기후 리스크 (Climate Risk)",
+            "기후 적응 (Climate Adaptation)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
