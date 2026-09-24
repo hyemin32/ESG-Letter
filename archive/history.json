@@ -1737,6 +1737,21 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-24",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3704145",
+          "title": "옥천군, 에너지 절감 유도하는 '탄소중립포인트제' 신규 세대 연중 모집",
+          "terms": [
+            "탄소중립포인트제",
+            "온실가스 감축 (GHG Reduction)",
+            "에너지 효율화 (Energy Efficiency)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
