@@ -1752,6 +1752,30 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://infrastructuremagazine.com.au/new-platform-targets-infrastructure-carbon-performance/",
+          "title": "호주 ISC, 인프라 건설 단계 탄소 배출 추정·벤치마킹 플랫폼 'IS 인사이츠' 개발",
+          "terms": [
+            "내재 탄소 (Embodied Carbon)",
+            "탄소 벤치마킹 (Carbon Benchmarking)",
+            "인프라 지속가능성 평가 (Infrastructure Sustainability Rating)"
+          ]
+        },
+        {
+          "url": "https://www.echo.net.au/2026/09/ballina-debates-dog-parks-and-net-zero/",
+          "title": "호주 발리나 카운슬, 2030 넷제로 목표 후퇴 시도 부결… 기후 약속 유지",
+          "terms": [
+            "넷제로 (Net Zero)",
+            "스코프 3 배출량 (Scope 3 Emissions)",
+            "온실가스 감축목표"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
