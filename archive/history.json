@@ -1776,6 +1776,21 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-01",
+      "type": "daily",
+      "articles": [
+        {
+          "url": "https://www.greenleft.org.au/2026/1463/analysis/students-demand-climate-action-lead-cop31",
+          "title": "호주 학생들, COP31 앞두고 신규 화석연료 승인 중단 및 기후행동 촉구 시위 예고",
+          "terms": [
+            "정의로운 전환 (Just Transition)",
+            "넷제로 (Net Zero)",
+            "파리협정 (Paris Agreement)"
+          ]
+        }
+      ]
     }
   ],
   "covered_terms": []
